@@ -1,4 +1,4 @@
-# codekansei
+# Code Kansei
 A simple Java code analyzer written in Java using the CheckStyle API
 
 Uses the Sun checks config based off of Oracle's official Sun code conventions, follows the best practices on writing java code and abides with the javadoc guidelines.
