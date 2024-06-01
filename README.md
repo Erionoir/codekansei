@@ -5,6 +5,7 @@ Uses the Sun checks config based off of Oracle's official Sun code conventions, 
 The config file is modifiable, located in `com/codekansei/Main.java`
 
 Resources:
+
 Sun Code Conventions: https://www.oracle.com/java/technologies/javase/codeconventions-contents.html
 
 Javadoc Guidelines: https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html
